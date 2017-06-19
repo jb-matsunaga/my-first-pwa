@@ -1,19 +1,15 @@
-# Your first Progressive Web App Code Lab
+# はじめてのPWA
 
-These are the resource files needed for the [Your first Progressive Web App](https://codelabs.developers.google.com/codelabs/your-first-pwapp/)
+[Your first Progressive Web App](https://codelabs.developers.google.com/codelabs/your-first-pwapp/)
 code lab from Google.
 
-This is a work in progress, if you find a mistake, please [file an issue](https://github.com/googlecodelabs/your-first-pwapp/issues). Thanks!
+## 学ぶもの
+* "app shell"メソッドを使ってアプリケーションを設計して構築する方法
+* アプリをオフラインで作業する方法
+* 後でオフラインで使用するためにデータを保存する方法
 
-## What you’ll learn
-* How to design and construct an app using the “app shell” method
-* How to make your app work offline
-* How to store data for use offline later
-
-## What you’ll need
-* Chrome 52 or above, though any browser that supports service workers and `cache.addAll()` will work
-* [Web Server for Chrome](https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb), or use your own web server of choice.
+## 必要なもの
+* Chrome 52以上。サービスワーカーをサポートするブラウザとcache.addAll（）は動作するかどうか
+* [Web Server for Chrome](https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb), または、独自のWebサーバーを使用してください。
 * The [sample code](https://github.com/googlecodelabs/your-first-pwapp/archive/master.zip)
-* A text editor
-* Basic knowledge of HTML, CSS and JavaScript
-* (Optional) Node is required in the last step to deploy to Firebase
+* （オプション）最後のステップでノードをFirebaseにデプロイする必要があります
